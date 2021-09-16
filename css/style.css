@@ -1,0 +1,51 @@
+h1{
+	border-bottom: 2px dashed blueviolet;
+	width: 250px;
+}
+
+.bg-1{
+	min-height: 100px;
+	background-color: green;
+}
+.bg-2{
+	min-height: 100px;
+	background-color: red;
+}
+.bg-3{
+	min-height: 100px;
+	background-color: black;
+}
+.bg-4{
+	min-height: 100px;
+	background-color: gray;
+}
+
+.parallax-window {
+	min-height: 400px;
+	/*background: transparent;*/
+}
+.aos_class_1{
+	min-height: 250px;
+	background-color: red;
+}
+.aos_class_2{
+	min-height: 250px;
+	background-color: orange;
+}
+.aos_class_3{
+	min-height: 250px;
+	background-color: green;
+}
+.aos_class_4{
+	min-height: 250px;
+	background-color: blue;
+}
+
+.box-menu ul li{
+	cursor: pointer;
+}
+
+.slick-dots li button:before{
+	margin-top: 10px;
+	font-size: 20px !important;
+}
